@@ -22,7 +22,7 @@
    - axios → for request API
    - chai → for assertion (result validation)
 
-   > npm install --save-dev wdio-intercept-service chai axios dotenv
+   > npm install --save-dev wdio-intercept-service chai axios
 
 2. Make **.env** file and add **GOREST_TOKEN="your_token"**
 
