@@ -2,8 +2,6 @@
 const axios = require("axios");
 // Load the chai assertion library
 const { expect } = require("chai");
-// Load the environment variables
-require("dotenv").config();
 
 // API URL and headers
 const API_URL = "https://gorest.co.in/public/v2/users/";

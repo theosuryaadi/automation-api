@@ -20,7 +20,6 @@
 1. Required Dependencies
 
    - axios → for request API
-   - dotenv → for store token safely
    - chai → for assertion (result validation)
 
    > npm install --save-dev wdio-intercept-service chai axios dotenv
